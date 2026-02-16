@@ -2,11 +2,15 @@
 
 Your website is the foundation of your business. If it’s slow, insecure, or outdated, you’re losing opportunities daily. Let’s fix that—and future-proof your digital growth.
 
+
 As a Full-Stack Developer & AI Engineer, I specialize in:
 
 ✔ High-Performance Web Apps (React, Next.js, JAMstack)
+
 ✔ Agentic AI & Automation (LangChain, CrewAI, OpenAI SDK, Google Vertex AI)
+
 ✔ Scalable Backends (Node.js, Python, Serverless)
+
 
 Why Choose My Web & AI Development Services?
 
