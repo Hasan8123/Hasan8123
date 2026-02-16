@@ -12,6 +12,8 @@ As a Full-Stack Developer & AI Engineer, I specialize in:
 ✔ Scalable Backends (Node.js, Python, Serverless)
 
 
+
+
 Why Choose My Web & AI Development Services?
 
 🔹 AI-Powered Innovation
@@ -39,6 +41,8 @@ Why Choose My Web & AI Development Services?
 ✅ Cloud-native apps (AWS, GCP, Vercel).
 
 
+
+
 Real-World Results I've Delivered:
 
 📈 +300% organic traffic for e-commerce sites through SEO optimization.
@@ -46,6 +50,8 @@ Real-World Results I've Delivered:
 ⏱️ 2.5s faster load times leading to 40% lower bounce rates.
 
 🤖 85% reduction in support tickets with AI chatbot implementations.
+
+
 
 
 My Development Process:
@@ -59,6 +65,8 @@ My Development Process:
 🔹 Launch & Optimize - Continuous improvement for maximum results.
 
 
+
+
 Portfolio Highlights:
 
 🔹 AI Chatbots with memory & document retrieval (RAG).
@@ -68,10 +76,14 @@ Portfolio Highlights:
 🔹 Automated workflows (AI + Zapier/Make).
 
 
+
+
 Let’s Build the Future—Together
 📅 Free Consultation → Discuss your AI/web project.
 
 💡 From MVP to Enterprise → I handle the tech; you focus on growth.
+
+
 
 
 Limited-Time Offer:
@@ -79,6 +91,8 @@ Limited-Time Offer:
 🔹 Free SEO & AI Consultation (Valued at $500)
 
 🔹 No-Risk Project Starter Package
+
+
 
 
 🔗 Explore My Work & Let’s Talk: [Email: hasansheikh8123@gmail.com]
